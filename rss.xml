@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Finding Light]]></title>
         <description><![CDATA[Finding Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/finding-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:46:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 17:46:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/finding-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>I really hope that this whole thing works and looks cool after the money invested and the time spent wait. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f8eaa4cd16d407430a4b9b68685464e87a5b3a4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/finding-light/test/index.html</link>
+            <guid isPermaLink="false">b01ef8d1-a91b-4fd7-999c-35681d318931</guid>
+            <pubDate>Fri, 29 Jan 2016 17:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2942158-29ac-48a1-991a-d090d654e4c6.JPG">]]></description>
-            <link>undefinedaa5a02af-00de-4a62-a079-7821adecffac/index.html</link>
+            <link>https://thegrid.ai/finding-light/aa5a02af-00de-4a62-a079-7821adecffac/index.html</link>
             <guid isPermaLink="false">aa5a02af-00de-4a62-a079-7821adecffac</guid>
             <pubDate>Fri, 29 Jan 2016 17:40:10 GMT</pubDate>
         </item>
