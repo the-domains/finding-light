@@ -1,29 +1,41 @@
-name: Finding Light
-favicon: null
-layout_spectrum: 0.7991635466460139
-typography_spectrum: 0.8649164063390344
 title: Photography with Purpose
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0.25
   brandColors:
     - '#000000'
     - '#f7f7f7'
     - '#53352b'
     - '#626d83'
     - '#feaa62'
-  brandStrength: 0
   lightness: 0.8125
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Finding Light
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8649164063390344
+layout_spectrum: 1
