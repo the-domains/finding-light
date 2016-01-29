@@ -1,0 +1,28 @@
+name: Finding Light
+favicon: null
+layout_spectrum: 0.7991635466460139
+typography_spectrum: 0.8649164063390344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7952569606713951
+  lightness: 0.703884650953114
+  saturation: 0.0872217183932662
+  rhythmicContrast: 0.9534036084078252
+purpose: []
