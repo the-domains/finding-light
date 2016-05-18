@@ -4,7 +4,7 @@
         <description><![CDATA[Photography with Purpose]]></description>
         <link>https://thegrid.ai/finding-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 14:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 14:50:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/finding-light/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +61,6 @@
             <link>https://thegrid.ai/finding-light/this-is-a-picture/index.html</link>
             <guid isPermaLink="false">6a242cba-d3fd-4241-a695-93c30064dccc</guid>
             <pubDate>Wed, 18 May 2016 14:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[God is good]]></title>
-            <description><![CDATA[<h1>God is good</h1>]]></description>
-            <link>https://thegrid.ai/finding-light/god-is-good/index.html</link>
-            <guid isPermaLink="false">4a50cb8b-3d1a-4b07-a7d9-758d9f498e63</guid>
-            <pubDate>Fri, 12 Feb 2016 05:01:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
