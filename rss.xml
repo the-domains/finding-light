@@ -4,8 +4,22 @@
         <description><![CDATA[Photography with Purpose]]></description>
         <link>https://thegrid.ai/finding-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 17:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 17:29:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/finding-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be83e059-0d4f-42b9-bbb0-b32541065346.jpg">]]></description>
+            <link>https://thegrid.ai/finding-light/trillium-lake-mt-hood-national-forest/index.html</link>
+            <guid isPermaLink="false">1cb392ed-f7f7-4184-9f9a-adc893ac12ba</guid>
+            <pubDate>Wed, 18 May 2016 17:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab6bb04e-e360-47d5-abae-a8364dcf1314.jpg">]]></description>
+            <link>https://thegrid.ai/finding-light/soaring-above-but-not-out-of-reach/index.html</link>
+            <guid isPermaLink="false">a1823961-f594-4151-8c4e-4a0ad6b67ed3</guid>
+            <pubDate>Wed, 18 May 2016 17:29:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0822df13-d79f-4329-a15e-2a0d389ba7f8.jpg">]]></description>
@@ -61,13 +75,6 @@
             <link>https://thegrid.ai/finding-light/dreaming-tree-actually-the-tree-has-a-name-of-its-own-and/index.html</link>
             <guid isPermaLink="false">7966c0fa-8854-499e-bde9-0d4177b5780f</guid>
             <pubDate>Wed, 18 May 2016 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad45f715-655e-4904-83c9-7c67b9a89249.jpg">]]></description>
-            <link>https://thegrid.ai/finding-light/this-is-a-picture/index.html</link>
-            <guid isPermaLink="false">6a242cba-d3fd-4241-a695-93c30064dccc</guid>
-            <pubDate>Wed, 18 May 2016 14:21:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
